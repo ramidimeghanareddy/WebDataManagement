@@ -1,14 +1,17 @@
 # WebDataManagement
 
 
-## Mercado Escolar 
+## Meghana Ramidi
 
 ![Follow Github](https://img.shields.io/github/followers/ramidimeghanareddy?color=%2317202A&label=Follow%20ramidimeghanareddy&logo=github&style=for-the-badge)  ![GitHub stars](https://img.shields.io/github/stars/ramidimeghanareddy/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge) 
 
+## Mercado Escolar
 Developed Laravel a powerful web application for helping the students and staff grab hold of the desired necessities. Tech: Html, CSS, JavaScript, React, PHP, Laravel.
 
 
 You can visit the website here: [Mercado Escolar](https://bhs07511.uta.cloud/mercadodynamic/)
+
+<img width="1440" alt="Home" src="https://github.com/ramidimeghanareddy/WebDataManagement/assets/129314031/abde9893-cc7d-484d-bfec-ac03e5ef42d4">
 
 
 ## Getting Started 🎧
@@ -54,8 +57,3 @@ Add additional notes about how to deploy this on a live system
 * PHP - Phase4
 * Laravel - Phase4
 
-
-## Become my distraction (Social Media)🏅
-I am From **Hyderabad**
-
-UTA © [Meghana Ramidi](https://github.com/ramidimeghanareddy)
