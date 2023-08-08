@@ -1,5 +1,5 @@
 # WebDataManagement
-Developed and maintained Laravel, a powerful web application framework with expressive syntax. 
-Contributed to extensive documentation, attracted sponsors, fostered an inclusive community, and addressed security vulnerabilities for growth, and security.
+Developed Laravel a powerful web application for helping the students and staff grab hold of the desired necessities. Tech: Html, CSS, JavaScript, React, PHP, Laravel.
 
-Website Link: https://bhs07511.uta.cloud/mercadodynamic/
+
+You can visit the website here: [Mercado Escolar](https://bhs07511.uta.cloud/mercadodynamic/)
