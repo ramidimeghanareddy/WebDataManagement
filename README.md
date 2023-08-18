@@ -45,7 +45,7 @@ until finished
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Deployment 💡
-[![THINK](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/ramidimeghanareddy/Mess_It_Up) [![MAKE](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/meghanareddy49341/) [![SELL](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/ramidimeghanareddy)
+[![THINK](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/ramidimeghanareddy/) [![MAKE](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://www.linkedin.com/in/meghanareddy49341/) [![SELL](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/ramidimeghanareddy)
 Add additional notes about how to deploy this on a live system
 
 ## Built With 🎯
